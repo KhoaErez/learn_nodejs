@@ -1,0 +1,31 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhoaErez/learn_nodejs.git"
+  },
+  "keywords": [
+    "f8",
+    "blog",
+    "learnF8"
+  ],
+  "author": "khoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhoaErez/learn_nodejs/issues"
+  },
+  "homepage": "https://github.com/KhoaErez/learn_nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
